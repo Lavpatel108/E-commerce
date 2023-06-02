@@ -17,7 +17,7 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 ## Contact
 
-If you want to contact me you can reach me at [instagram](https://www.twitter.com/codewithsadee](https://instagram.com/patellav_._153/).
+If you want to contact me you can reach me at [instagram](https://instagram.com/patellav_._153/).
 
 ## License
 
